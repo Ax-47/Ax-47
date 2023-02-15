@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Misha ?===============================================================================================================================Student-------Aka : Ax47, 0x47* 🖥️  See my portfolio at [Ax47](http://ax-47.github.io)* 🧠  I'm learning Machine Learning , Frontend
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Misha?
+===============================================================================================================================
+
+Student
+-------
+
+Aka : Ax47, 0x47* 🖥️  See my portfolio at [Ax47](http://ax-47.github.io)* 🧠  I'm learning Machine Learning , Frontend
 
 ### Skills
 

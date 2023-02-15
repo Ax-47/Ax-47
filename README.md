@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-Aka : Ax47, 0x47* 🖥️  See my portfolio at [Ax47](http://ax-47.github.io)* 🧠  I'm learning Machine Learning , Frontend
+Aka : Ax47, 0x47
+
+* 🖥️  See my portfolio at [Ax47](http://ax-47.github.io)
+* 🧠  I'm learning Machine Learning , Frontend
 
 ### Skills
 

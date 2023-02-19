@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, NYA Misha Misha Akhsakov</h1>
+<h1 align="center">Hi 👋, Nya Misha Misha Akhsakov</h1>
 <h3 align="center">I hate frontend work, I've learned fronend, NLP, AI, Network.</h3>
 
 <h3 align="left">Connect with me:</h3>

@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, Nya Misha Misha Akhsakov</h1>
 <h3 align="center">I hate frontend work, I've learned fronend, NLP, AI, Network.</h3>
 
-<h3 align="left">Cybersecurity</h3>
-<script src="https://www.hackthebox.eu/badge/1415188"></script>
+<h3 align="left">CyberSecurity</h3>
+ <img src="http://www.hackthebox.eu/badge/image/1415188" alt="Hack The Box"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

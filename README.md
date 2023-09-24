@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, Nya Mikhail Akhsakov</h1>
 <h3 align="center">I hate frontend work, I'm learning fronend, NLP, AI, Network.</h3>
-<h3 align="left">LinkedIn</h3>
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mikhail-akhsakov-420883292" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://th.linkedin.com/in/mikhail-akhsakov-420883292?trk=profile-badge">Mikhail Akhsakov</a></div>
 <h3 align="left">CyberSecurity</h3>
  <img src="http://www.hackthebox.eu/badge/image/1415188" alt="Hack The Box"> 
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/mikhail-akhsakov-420883292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <p align="left">
 </p>
 

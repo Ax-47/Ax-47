@@ -4,8 +4,12 @@ Web fullstack, IoT, Discord Bot Dev
 -----------------------------------
 * 🌍  I'm based in Thai
 * ✉️  You can contact me at [mikhailakhsakov.contact@gmail.com](mailto:mikhailakhsakov.contact@gmail.com)
-### leetcode
+### Leetcode
 ![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/Ax-47?theme=neutral)
+
+### Hack The Box
+[![HTB](https://www.hackthebox.eu/badge/image/1415188)](https://www.hackthebox.eu/home/users/profile/1415188)
+
 ### Programming Langauges
 
 <p align="center">

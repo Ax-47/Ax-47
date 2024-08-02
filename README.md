@@ -7,8 +7,8 @@ Web fullstack, IoT, Discord Bot Dev
 ### Leetcode
 ![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/Ax-47?theme=neutral)
 
-### Hack The Box
-[![HTB](https://www.hackthebox.eu/badge/image/1415188)](https://www.hackthebox.eu/home/users/profile/1415188)
+### Pentest
+[![HTB](https://www.hackthebox.eu/badge/image/1415188)](https://www.hackthebox.eu/home/users/profile/1415188) [![TRY](https://tryhackme-badges.s3.amazonaws.com/0x470x0a.png)](https://tryhackme.com/p/0x470x0a)
 
 ### Programming Langauges
 
